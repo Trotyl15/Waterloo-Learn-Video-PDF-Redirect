@@ -1,5 +1,6 @@
 # Waterloo-Learn-Video-PDF-Redirect
-An extension that redirects Waterloo Learn's Video &amp; PDF to its original page.
+An extension that redirects Waterloo Learn's Video &amp; PDF to its original page.<br>
+Greasfork Link👉 [Waterloo Learn Video & PDF Redirect](https://greasyfork.org/en/scripts/439394-waterloo-learn-video-pdf-redirect)
 ## Features
 - Redirect Video/PDF to its original page.
 - Use **arrow keys** to go back/forward 5s and control the volume for videos.
