@@ -8,6 +8,8 @@ Greasyfork Link👉 [Waterloo Learn Video & PDF Redirect](https://greasyfork.org
 - Press **「Space」** to pause/resume the video.
 
 ## How to Use
+**Turn off the `Always download PDF files` in your browser's setting (Recommended).**
+
 - Install TamperMonkey Extension: [Edge]: <a href="https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd?hl=en-US">TamperMonkey Extension</a> [Chrome]: <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">TamperMonkey Extension</a> [FireFox]: <a href="https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/">TamperMonkey Extension</a>.
 - Install this script from <a href="https://greasyfork.org/en/scripts/439394-waterloo-learn-video-pdf-redirect">GreasyFork</a>.
 
